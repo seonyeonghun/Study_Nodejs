@@ -1,3 +1,4 @@
+// http 모듈은 기본 내장모듈
 const http = require('http')
 
 const hostname = '127.0.0.1'
